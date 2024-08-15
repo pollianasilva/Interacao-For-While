@@ -12,7 +12,7 @@ Respeito às boas práticas de código: Procure manter o código limpo e organiz
 
 # Instalação
 
-- Acesse o repositório: [https://github.com/aceleradora-TW/Condicionais-IF-ELSE](https://github.com/aceleradora-TW/Interacao-For-While.git)
+- Acesse o repositório: https://github.com/aceleradora-TW/Interacao-For-While/tree/main
 - Em seguida faça um fork dele
 - Clone na sua máquina
 - Instale as dependências usando o comando ``npm install``
