@@ -1,0 +1,3 @@
+function tabelaConversao() {
+    return null;
+}

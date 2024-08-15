@@ -1,0 +1,3 @@
+function mostrarNumerosEntreMeN() {
+    return null;
+}

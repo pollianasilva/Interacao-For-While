@@ -1,25 +1,24 @@
 # Interacao-For-While
 
-src
- ├── Enunciados
- │   ├── 1-numeros-0-a-40.md
- │   ├── 2-numeros-0-a-n.md
- │   ├── 3-numeros-entre-m-e-n.md
- │   ├── 4-numeros-impares-entre-m-e-n.md
- │   ├── 5-maior-valor-digitado.md
- │   ├── 6-segundo-maior-valor.md
- │   ├── 7-soma-intervalo-m-a-n.md
- │   ├── 8-multiplos-de-2-e-5.md
- │   ├── 9-media-de-3-alunos.md
- │   └── 10-tabela-polegadas-para-cm.md
- └── Implementacao
-     ├── 1-numeros-0-a-40.ts
-     ├── 2-numeros-0-a-n.ts
-     ├── 3-numeros-entre-m-e-n.ts
-     ├── 4-numeros-impares-entre-m-e-n.ts
-     ├── 5-maior-valor-digitado.ts
-     ├── 6-segundo-maior-valor.ts
-     ├── 7-soma-intervalo-m-a-n.ts
-     ├── 8-multiplos-de-2-e-5.ts
-     ├── 9-media-de-3-alunos.ts
-     └── 10-tabela-polegadas-para-cm.ts
+Lista de exercicios de for-while com typescript
+
+Uso obrigatório de laços de repetição: Todos os exercícios desta lista devem obrigatoriamente utilizar laços de repetição (for, while, do while etc). Evite ao máximo o uso de métodos prontos do JavaScript. O objetivo é que você implemente a lógica de repetição manualmente.
+
+Tipagem: Lembre-se de sempre tipar corretamente todas as variáveis, parâmetros e retornos das funções. 
+
+Funções para cada exercício: Cada exercício deve ser implementado dentro de uma função. Essa função deve receber os parâmetros necessários e retornar os resultados adequados. A estrutura e a lógica de cada exercício devem estar contidas exclusivamente dentro dessas funções.
+
+Respeito às boas práticas de código: Procure manter o código limpo e organizado, utilizando nomes de variáveis e funções claros e expressivos. Evite duplicação de código e siga uma lógica clara em suas implementações.
+
+# Instalação
+
+- Acesse o repositório: https://github.com/aceleradora-TW/Condicionais-IF-ELSE
+- Em seguida faça um fork dele
+- Clone na sua máquina
+- Instale as dependências usando o comando ``npm install``
+
+# Como usar
+
+- Leia com atenção os exercicios dentro da pasta enunciados 
+- Crie a lógica de cada exercicio dentro da pasta implementacao
+- Para rodar um exercicio especifico dentro da pasta implementacao é necessário usar o comando ``npm run start -- nome-do-arquivo.ts``

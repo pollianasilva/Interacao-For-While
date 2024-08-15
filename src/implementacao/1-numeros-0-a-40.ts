@@ -1,0 +1,3 @@
+function mostrarNumeros() {
+    return null;
+}
